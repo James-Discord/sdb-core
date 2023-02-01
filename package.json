@@ -20,6 +20,6 @@
         "axios": "^0.21.1",
         "discord.js": "^12.5.3",
         "humanize-duration": "^3.27.0",
-        "quickmongo": "^3.0.2"
+        "quickmongo": "^5.2.0"
     }
 }
